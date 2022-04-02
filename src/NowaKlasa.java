@@ -6,6 +6,7 @@
  */
 public class NowaKlasa {
    // Do zrobienia
+    //To jest zmiana w pliku klasy
     //TODO: musze pamietac zeby kupic mleko
     // fixme: koło odpadło z samochodu
 
